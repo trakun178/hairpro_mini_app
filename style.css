@@ -1,0 +1,37 @@
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  background-color: #fff7f0;
+  color: #3b3b3b;
+}
+
+.container {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 30px 20px;
+  text-align: center;
+}
+
+h1 {
+  margin-bottom: 10px;
+  font-size: 26px;
+}
+
+.menu {
+  margin-top: 30px;
+}
+
+.menu-item {
+  display: block;
+  margin: 10px 0;
+  padding: 10px;
+  background-color: #6e3b1c;
+  color: #fff;
+  text-decoration: none;
+  border-radius: 10px;
+}
+.menu-item:hover {
+  background-color: #915736;
+}
